@@ -1,0 +1,278 @@
+.mon{
+    text-align: center;
+}
+
+.mon h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.car1{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+  }
+  .car1 i{
+      font-size: 60px;
+  color: rgb(67, 245, 23);
+  background-color: rgb(255, 255, 255);
+  border: 2PX solid black;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  }
+  .car2{
+      width: 200px;
+      height: 200px;
+      text-align: center;
+    }
+    .car2 i{
+        font-size: 60px;
+        color: rgb(67, 245, 23);
+        background-color: rgb(255, 255, 255);
+        border: 2PX solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;}
+    .car3{
+      width: 200px;
+      height: 200px;
+      text-align: center;
+    }
+    .car3 i{
+        font-size: 60px;
+        color: rgb(67, 245, 23);
+  background-color: rgb(255, 255, 255);
+  border: 2PX solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;}
+    .car4{
+      width: 200px;
+      height: 200px;
+      text-align: center;
+    }
+    .car4 i{
+        font-size: 60px;
+        color: rgb(67, 245, 23);
+  background-color: rgb(255, 255, 255);
+  border: 2PX solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;}
+    .car5{
+      width: 200px;
+      height: 200px;
+      text-align: center;
+    }
+    .car5 i{
+        font-size: 60px;
+        color: rgb(67, 245, 23);
+  background-color: rgb(255, 255, 255);
+  border: 2PX solid black;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;}
+    .cards{
+      height: 250px;
+      display: flex;
+      justify-content: center;
+      gap: 50px;
+      margin-top: 50px;
+    }
+    .card1{
+        width: 400px;
+        height: 150px;
+        background-color: aliceblue;
+        align-items: center;
+        text-align: center;
+display: inline-flex; 
+border: 2px solid rgb(234, 235, 236);  
+   }
+    .card1 i{
+        font-size: 60px;
+        margin: 20px;
+        
+        color: rgb(151, 151, 151);
+        background-color: rgb(255, 255, 255);
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      align-items: center;
+  display: flex;
+  justify-content: center;
+    }
+    .card1 .hh1{
+        margin-left: 50px;
+    }
+    .card2{
+        width: 400px;
+        height: 150px;
+        background-color: aliceblue;
+        align-items: center;
+        text-align: center;
+display: inline-flex;   
+border: 2px solid rgb(234, 235, 236);  
+ }
+    .card2 i{
+        font-size: 60px;
+        margin: 20px;
+        
+        color: rgb(151, 151, 151);
+        background-color: rgb(255, 255, 255);
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      align-items: center;
+  display: flex;
+  justify-content: center;
+    }
+    .card2 .hh2{
+        margin-left: 50px;
+    }
+    .card3{
+        width: 400px;
+        height: 150px;
+        background-color: aliceblue;
+        align-items: center;
+        text-align: center;
+display: inline-flex;   
+border: 2px solid rgb(234, 235, 236);  
+ }
+    .card3 i{
+        font-size: 60px;
+        margin: 20px;
+        
+        color: rgb(151, 151, 151);
+        background-color: rgb(255, 255, 255);
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      align-items: center;
+  display: flex;
+  justify-content: center;
+    }
+    .card3 .hh3{
+        margin-left: 50px;
+    }
+    .card4{
+        width: 400px;
+        height: 150px;
+        background-color: aliceblue;
+        align-items: center;
+        text-align: center;
+display: inline-flex;  
+border: 2px solid rgb(234, 235, 236);  }
+    .card4 i{
+        font-size: 60px;
+        margin: 20px;
+        
+        color: rgb(151, 151, 151);
+        background-color: rgb(255, 255, 255);
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      align-items: center;
+  display: flex;
+  justify-content: center;
+    }
+    .card4 .hh4{
+        margin-left: 50px;
+    }
+    .cardes{
+      width: 900px;
+      height: 350px;
+      background-color: aliceblue;
+      display: flex;    
+flex-wrap: wrap;
+gap: 5px;
+margin-left: 50px;
+ }
+ .sc2{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+align-items: center;
+height: 400px;
+padding-top: 50px;
+
+ }
+ .sc3{
+  background-color: rgb(0, 133, 71);
+text-align: center;  height: 400px;
+color: white;
+padding-top: 50px;}
+.sc3 h1{
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 20px;
+
+}
+.INP .in1{
+font-size: larger;
+}
+.INP .in2{
+  font-size: larger;
+  margin-left: 50px;
+  margin-right: 50px;
+  }
+  .INP .in3{
+    font-size: larger;
+    }
+    .BT2{
+      font-size: larger;
+      background-color: rgb(255, 192, 76);
+      margin-left: 50px;
+    }
+    .BT2:hover{
+      font-size: larger;
+      background-color: rgb(238, 237, 234);
+      margin-left: 50px;
+    }
+    .sc3 p{
+      padding-top: 50px;
+      font-size: 30px;
+    }
+    .mon2{
+      text-align: center;
+  }
+  
+  .mon2 h1{
+      font-size: 40px;
+      font-weight: bold;
+      margin-top: 50px;
+padding-top: 50px;
+  }
+  .parts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:150px;
+  }
+  footer{
+    background-color: rgb(0, 133, 71);
+color: white;
+padding-top: 50px;
+padding-bottom: 100px;
+  }
